@@ -1,0 +1,7 @@
+1.your 5 old school's friend's name :  Save those in a text file 
+2. read that file 
+3. append @gmail.com at the end of each name
+4. finally display or write this in a new text file.
+
+Extra challenge:
+Can you do the same in Linux ?
